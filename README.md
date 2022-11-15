@@ -6,8 +6,9 @@ Please feel free to use this. Not owned by me and you can do the same by followi
 
 I have (hopefully) generated the source for the following DLL's:
 
+```
 HAL.*
-NT*.*
+NTDLL.*
 KERNEL32.*
 GDI32.*
 USER32.*
@@ -26,5 +27,7 @@ MSVBVM60.*
 VCOMP*.*
 VCRUNTIME*.*
 MSVCIRT.* 
+
+```
 
 Is there an easier way to generated this source? Let me know!
